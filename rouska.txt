@@ -1,4 +1,4 @@
 1.Vezmeme material, gumicku/snurku, filtracni vrstvu;
 2.Vlozime filtracni vrstvu do materialu ;
-3.Vlozime snurku do materialu a udelame ocka;
+3.Vlozime snurku do materialu & udelame ocka;
 4.Zavazemi si rousku k hlave
